@@ -1,0 +1,5 @@
+1º - Para instalar e criar um app EXPO, tendo a biblioteca do NPM, NODE ja instalada.
+2º - CMD - npm install expo-cli --global .
+3º - criando novo app -- expo init nomedoapp .
+4º - expo start .
+ 
